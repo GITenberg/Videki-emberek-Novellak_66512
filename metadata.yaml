@@ -1,5 +1,8 @@
 _repo: Videki-emberek-Novellak_66512
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Petelei, István
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52066
     wikipedia: https://hu.wikipedia.org/wiki/Petelei_Istv%C3%A1n_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66512#Videki-emberek-Novellak
 gutenberg_issued: '2021-10-11'
 identifiers:
   gutenberg: '66512'
